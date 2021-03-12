@@ -34,7 +34,7 @@ int main()
         case 1: cout<<"As Expected from you Noob-master!"; break;
         case 11: cout<<"Well Not so hard, not so easy, but i can do better than this!"; break;
         case 111: cout<<"Welcome to the real Game, By the way you can't defeat me! Can you?"; break;
-        default: cout<<"Can't you read douchebag!\n"; goto level;
+        default: cout<<"Can't you read!\n"; goto level;
     }
     cout<<"\n";
 
